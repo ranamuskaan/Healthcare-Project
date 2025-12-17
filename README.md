@@ -1,5 +1,8 @@
 # Healthcare-Project
 # 🧠 Left-Handedness and Mortality Data Analysis 📊
+## Project Overview
+
+![Project Pipeline](https://github.com/ranamuskaan/Healthcare-Project/blob/main/Healthcare_Project.png)
 
 This data science project investigates the relationship between **left-handedness and age at death**, based on real data from a **National Geographic survey** and **US death distribution statistics**.
 
